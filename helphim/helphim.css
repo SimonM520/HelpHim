@@ -1,0 +1,62 @@
+body {
+  background-color: white;
+  color: white;
+  font-family:'Play', sans-serif;
+  font-size: 20px;
+}
+#first {
+  top: -25%;
+  position: absolute;
+  align-content: top;
+}
+#second{
+  top:150%;
+  position: absolute;
+  align-content: top;
+}
+#third{
+  top:345%;
+  position: absolute;
+  align-content: top;
+}
+#forth{
+  top:542%;
+  position: absolute;
+  align-content: top;
+}
+#fifth{
+  top:738%;
+  position: absolute;
+  align-content: top;
+}
+#sixth{
+  top:936%;
+  position: absolute;
+  align-content: top;
+}
+
+#sev{
+  top:1100%;
+  position: absolute;
+  align-content: top;
+}
+#eight{
+  top:1297%;
+  position: absolute;
+  align-content: top;
+}
+#nine{
+  top:1495%;
+  position: absolute;
+  align-content: top;
+}
+#ten{
+  top:1693%;
+  position: absolute;
+  align-content: top;
+}
+#end{
+  top:1887%;
+  position: absolute;
+  align-content: top;
+}
